@@ -1,0 +1,24 @@
+{
+    "name": "cci/laravel-flintstone",
+    "description": "",
+    "authors": [
+        {
+            "name": "Kevin Vile",
+            "email": "kevin@clevelandconsulting.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "fire015/flintstone": "1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Cci\\LaravelFlintstone": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

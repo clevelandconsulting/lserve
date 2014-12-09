@@ -1,0 +1,5 @@
+test@test.com|Test Company=a:5:{s:5:"email";s:13:"test@test.com";s:4:"name";s:12:"Test Company";s:3:"key";s:13:"547f1f9a78bff";s:6:"active";b:1;s:9:"suspended";b:1;}
+second@second.com|Another Company=a:5:{s:5:"email";s:17:"second@second.com";s:4:"name";s:15:"Another Company";s:3:"key";s:13:"5481c834d2fda";s:6:"active";b:1;s:9:"suspended";b:0;}
+t@r.co|Me=a:5:{s:5:"email";s:6:"t@r.co";s:4:"name";s:2:"Me";s:3:"key";s:13:"5481c89126f4d";s:6:"active";b:1;s:9:"suspended";b:0;}
+fake@fake.com|FAKE=a:5:{s:5:"email";s:13:"fake@fake.com";s:4:"name";s:4:"FAKE";s:3:"key";s:13:"5481c8fc7c643";s:6:"active";b:1;s:9:"suspended";b:0;}
+monster@monster.com|ARRRGH!=a:6:{s:5:"email";s:19:"monster@monster.com";s:4:"name";s:7:"ARRRGH!";s:3:"key";s:13:"5481f8ea138b8";s:6:"active";b:1;s:9:"suspended";b:0;s:4:"date";s:10:"2014-12-05";}
